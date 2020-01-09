@@ -27,4 +27,4 @@ default = []
 dynamic_peg = [ "peg" ]
 
 [build-dependencies]
-peg = {version = "0.5", optional = true }
+peg = {version = "0.6", optional = true }
